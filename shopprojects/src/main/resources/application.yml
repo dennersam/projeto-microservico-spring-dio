@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: shopprojects
+
+  cloud:
+    config:
+      uri: https://localhost:8888
